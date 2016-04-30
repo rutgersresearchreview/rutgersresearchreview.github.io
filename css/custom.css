@@ -1,0 +1,89 @@
+.center{
+	text-align: center !important;
+	margin: 0 auto;
+}
+.background{
+	background-color: white;
+}
+.header{
+	font-size: 65px;
+	text-align: center;
+	font-family: baskerville;
+	color: #d21034;
+}
+.sub-header{
+	font-style: italic;
+}
+.full-width{
+	width: 100%;
+}
+.menu-spacer{
+	text-align: center;
+	width: 20%;
+}
+.article-title{	
+	font-size: 30px;
+}
+.article-image{
+	margin: 0 auto;
+	margin-top: 23px;
+	text-align: center;
+}
+.author{
+	font-size: 15px;
+}
+.signup-form div{
+	margin-bottom: 10px;
+}
+.first-name-input{
+	margin-bottom: 7px;
+}
+.error{
+	font-size: 25px;
+	color: #e74c3c;
+}
+.article-submit{
+	width: 70%;
+	margin: 0 auto;
+}
+.author-name{
+	width: 20%;
+	margin: 0 auto;
+	display: inline;
+}
+.article{
+	margin: 0 auto;
+	word-wrap: break-word;
+	text-align: left;
+	width: 90%;
+	font-size: 20px;
+	color: black;
+}
+.danger{
+	background-color: #c0392b;
+	color: white;
+}
+.type{
+	width: 30%;
+}
+.about{
+	font-size:20px;
+}
+.references{
+	text-align: left;
+	width: 90%;
+	margin: 0 auto;
+}
+.picture{
+	height: 300px;
+	width:300px;
+}
+.chris-wanted-it-bigger{
+	font-size: 20px;
+}
+.caption{
+	text-align: center;
+}
+.middle{
+	padding-left: 13%;
+}
