@@ -95,7 +95,10 @@
 .middle{
 	padding-left: 13%;
 }
-.guidelines p,li{
+.guidelines p{
+	font-size: 20px;
+}
+.guidelines li{
 	font-size: 20px;
 }
 .left{
