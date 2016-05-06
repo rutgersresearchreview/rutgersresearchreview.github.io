@@ -3,9 +3,28 @@
 	margin: 0 auto;
 }
 .home{
-	background: url('../img/background/Home.jpeg') no-repeat center center fixed;
+	background: url('../img/background/home.jpeg') no-repeat center center fixed;
 	background-size: 100%;
-
+}
+.applied-sciences{
+	background: url('../img/background/applied-sciences.jpeg') no-repeat center center fixed;
+	background-size: 100%;
+}
+.humanities{
+	background: url('../img/background/humanities.jpeg') no-repeat center center fixed;
+	background-size: 100%;
+}
+.mathematical-sciences{
+	background: url('../img/background/mathematical-sciences.jpeg') no-repeat center center fixed;
+	background-size: 100%;
+}
+.natural-sciences{
+	background: url('../img/background/natural-sciences.jpeg') no-repeat center center fixed;
+	background-size: 100%;
+}
+.social-sciences{
+	background: url('../img/background/social-sciences.jpeg') no-repeat center center fixed;
+	background-size: 100%;
 }
 .well{
 	background-color: white;
@@ -103,4 +122,7 @@
 }
 .left{
 	padding-left:0px;
+}
+.lefter{
+	margin-left: -30px;
 }
