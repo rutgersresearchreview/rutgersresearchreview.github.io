@@ -2,14 +2,19 @@
 	text-align: center !important;
 	margin: 0 auto;
 }
-.background{
-	background-color: white;
+.home{
+	background: url('../img/background/Home.jpeg') no-repeat center center fixed;
+	background-size: 100%;
+
 }
 .header{
 	font-size: 65px;
 	text-align: center;
 	font-family: baskerville;
 	color: #d21034;
+}
+.header-img{
+	min-width: 1140px;
 }
 .sub-header{
 	font-style: italic;
