@@ -27,7 +27,7 @@
 	background-size: 100%;
 }
 .well{
-	background-color: white;
+	background: rgba(255,255,255,.95);
 }
 .header{
 	font-size: 65px;
@@ -119,9 +119,6 @@
 }
 .guidelines li{
 	font-size: 20px;
-}
-.left{
-	padding-left:0px;
 }
 .lefter{
 	margin-left: -30px;
