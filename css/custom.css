@@ -7,6 +7,9 @@
 	background-size: 100%;
 
 }
+.well{
+	background-color: white;
+}
 .header{
 	font-size: 65px;
 	text-align: center;
@@ -91,4 +94,10 @@
 }
 .middle{
 	padding-left: 13%;
+}
+.guidelines p,li{
+	font-size: 20px;
+}
+.left{
+	padding-left:0px;
 }
