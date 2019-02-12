@@ -91,6 +91,21 @@
 	font-size: 20px;
 	color: black;
 }
+#article-table{
+	margin: 0 auto;
+  	width: 80%;
+  	border: 1px solid black;
+}
+#article-table th{
+	text-align: center;
+	background-color: #323e5b;
+	color: white;
+	padding: 8px;
+}
+#article-table td{
+	border: 1px solid white;
+	padding: 5px;
+}
 .danger{
 	background-color: #c0392b;
 	color: white;
